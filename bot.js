@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "Id server"; // ايدي السررفر
-var channel = "id room";//ايدي الروم
+var server = "518757790324621314";
+var channel = "519131162220691456";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , ')
     },305);
